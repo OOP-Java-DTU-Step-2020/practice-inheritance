@@ -130,9 +130,4 @@ gradle-app.setting
 *.iml
 .idea/
 .diffblue/
-src/main/java/org/itstep/task01/Employee.java
-src/main/java/org/itstep/task02/EmployeeAndTax.java
-src/main/java/org/itstep/task03/EmployeeAndChild.java
-src/main/java/org/itstep/task04/EmployeeAndTugrik.java
-src/main/java/org/itstep/task05/EmployeeAndOffshore.java
-src/main/java/org/itstep/task06/EmplyeeAndBonus.java
+
